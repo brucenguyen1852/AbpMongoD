@@ -1,0 +1,15 @@
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.0/BookStore.HttpApi.Client.deps.json
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.0/BookStore.HttpApi.Client.dll
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.0/BookStore.HttpApi.Client.pdb
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.0/BookStore.Application.Contracts.dll
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.0/BookStore.Domain.Shared.dll
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.0/BookStore.Application.Contracts.pdb
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/bin/Debug/netstandard2.0/BookStore.Domain.Shared.pdb
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.0/BookStore.HttpApi.Client.csproj.AssemblyReference.cache
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.0/BookStore.HttpApi.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.0/BookStore.HttpApi.Client.AssemblyInfoInputs.cache
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.0/BookStore.HttpApi.Client.AssemblyInfo.cs
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.0/BookStore.HttpApi.Client.csproj.CoreCompileInputs.cache
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.0/BookStore.HttpApi.Client.csproj.CopyComplete
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.0/BookStore.HttpApi.Client.dll
+/Users/mannguyen/Downloads/BookStore/src/BookStore.HttpApi.Client/obj/Debug/netstandard2.0/BookStore.HttpApi.Client.pdb

@@ -1,0 +1,11 @@
+/Users/mannguyen/Downloads/BookStore/src/BookStore.Domain.Shared/bin/Debug/netstandard2.0/BookStore.Domain.Shared.deps.json
+/Users/mannguyen/Downloads/BookStore/src/BookStore.Domain.Shared/bin/Debug/netstandard2.0/BookStore.Domain.Shared.dll
+/Users/mannguyen/Downloads/BookStore/src/BookStore.Domain.Shared/bin/Debug/netstandard2.0/BookStore.Domain.Shared.pdb
+/Users/mannguyen/Downloads/BookStore/src/BookStore.Domain.Shared/obj/Debug/netstandard2.0/BookStore.Domain.Shared.csproj.AssemblyReference.cache
+/Users/mannguyen/Downloads/BookStore/src/BookStore.Domain.Shared/obj/Debug/netstandard2.0/BookStore.Domain.Shared.EmbeddedFilesManifest.cache
+/Users/mannguyen/Downloads/BookStore/src/BookStore.Domain.Shared/obj/Debug/netstandard2.0/BookStore.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mannguyen/Downloads/BookStore/src/BookStore.Domain.Shared/obj/Debug/netstandard2.0/BookStore.Domain.Shared.AssemblyInfoInputs.cache
+/Users/mannguyen/Downloads/BookStore/src/BookStore.Domain.Shared/obj/Debug/netstandard2.0/BookStore.Domain.Shared.AssemblyInfo.cs
+/Users/mannguyen/Downloads/BookStore/src/BookStore.Domain.Shared/obj/Debug/netstandard2.0/BookStore.Domain.Shared.csproj.CoreCompileInputs.cache
+/Users/mannguyen/Downloads/BookStore/src/BookStore.Domain.Shared/obj/Debug/netstandard2.0/BookStore.Domain.Shared.dll
+/Users/mannguyen/Downloads/BookStore/src/BookStore.Domain.Shared/obj/Debug/netstandard2.0/BookStore.Domain.Shared.pdb

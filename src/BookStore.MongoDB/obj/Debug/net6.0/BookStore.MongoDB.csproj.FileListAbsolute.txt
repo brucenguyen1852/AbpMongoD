@@ -1,0 +1,17 @@
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/bin/Debug/net6.0/BookStore.MongoDB.deps.json
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/bin/Debug/net6.0/BookStore.MongoDB.dll
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/bin/Debug/net6.0/BookStore.MongoDB.pdb
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/bin/Debug/net6.0/BookStore.Domain.dll
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/bin/Debug/net6.0/BookStore.Domain.Shared.dll
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/bin/Debug/net6.0/BookStore.Domain.pdb
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/bin/Debug/net6.0/BookStore.Domain.Shared.pdb
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/obj/Debug/net6.0/BookStore.MongoDB.csproj.AssemblyReference.cache
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/obj/Debug/net6.0/BookStore.MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/obj/Debug/net6.0/BookStore.MongoDB.AssemblyInfoInputs.cache
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/obj/Debug/net6.0/BookStore.MongoDB.AssemblyInfo.cs
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/obj/Debug/net6.0/BookStore.MongoDB.csproj.CoreCompileInputs.cache
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/obj/Debug/net6.0/BookStore.MongoDB.csproj.CopyComplete
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/obj/Debug/net6.0/BookStore.MongoDB.dll
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/obj/Debug/net6.0/refint/BookStore.MongoDB.dll
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/obj/Debug/net6.0/BookStore.MongoDB.pdb
+/Users/mannguyen/Downloads/BookStore/src/BookStore.MongoDB/obj/Debug/net6.0/ref/BookStore.MongoDB.dll

@@ -1,0 +1,56 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BookStore.Web
+build_property.RootNamespace = BookStore.Web
+build_property.ProjectDir = /Users/mannguyen/Downloads/BookStore/src/BookStore.Web/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /Users/mannguyen/Downloads/BookStore/src/BookStore.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/mannguyen/Downloads/BookStore/src/BookStore.Web/Components/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mannguyen/Downloads/BookStore/src/BookStore.Web/Pages/Authors/CreateModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aG9ycy9DcmVhdGVNb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mannguyen/Downloads/BookStore/src/BookStore.Web/Pages/Authors/EditModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aG9ycy9FZGl0TW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mannguyen/Downloads/BookStore/src/BookStore.Web/Pages/Authors/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aG9ycy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mannguyen/Downloads/BookStore/src/BookStore.Web/Pages/Books/CreateModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvQ3JlYXRlTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mannguyen/Downloads/BookStore/src/BookStore.Web/Pages/Books/EditModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvRWRpdE1vZGFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mannguyen/Downloads/BookStore/src/BookStore.Web/Pages/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mannguyen/Downloads/BookStore/src/BookStore.Web/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mannguyen/Downloads/BookStore/src/BookStore.Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mannguyen/Downloads/BookStore/src/BookStore.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
